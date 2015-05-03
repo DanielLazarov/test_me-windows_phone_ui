@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\ServerAPI.csproj;x86
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui.csproj;x86
