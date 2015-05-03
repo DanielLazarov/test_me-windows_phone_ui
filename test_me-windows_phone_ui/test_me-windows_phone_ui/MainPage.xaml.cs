@@ -62,5 +62,10 @@ namespace test_me_windows_phone_ui
                 Frame.Navigate(typeof(loginPage));
             }
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(loginPage));
+        }
     }
 }

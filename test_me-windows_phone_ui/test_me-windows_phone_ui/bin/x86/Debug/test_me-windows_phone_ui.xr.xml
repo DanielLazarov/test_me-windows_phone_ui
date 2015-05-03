@@ -8,12 +8,22 @@
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
       <RootProperty Name="ChildrenTransitions" />
       <RootProperty Name="RowDefinitions" />
-      <RootProperty Name="Children" />
       <RootProperty Name="Margin" />
       <RootMethod Name="GetRow" />
       <RootMethod Name="SetRow" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="test_me_windows_phone_ui.MainPage" />
     <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
@@ -35,16 +45,6 @@
       <RootProperty Name="Width" />
       <RootEvent Name="LostFocus" />
       <RootEvent Name="GotFocus" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Button">
-      <RootProperty Name="Name" />
-      <RootProperty Name="Content" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="VerticalAlignment" />
-      <RootProperty Name="Width" />
-      <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
       <RootProperty Name="Name" />

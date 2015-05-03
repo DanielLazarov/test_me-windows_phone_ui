@@ -31,7 +31,7 @@ namespace ServerAPI
                 UTF8Encoding encoding = new UTF8Encoding();
                 byte[] data = encoding.GetBytes(dataToSend);
 
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://192.168.0.135");
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://78.90.52.246:88");
                 request.Method = "POST";
                 request.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
 

@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\daniel\documents\visual studio 2015\projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\x86\debug\intermediatexaml\test_me-windows_phone_ui.exe" HashGuid="2b62aaa1-39a6-91a3-2bb1-6ec6074daa07" />
-    <ReferenceAssembly PathName="c:\users\daniel\documents\visual studio 2015\projects\test_me-windows_phone_ui\test_me-windows_phone_ui\packages\newtonsoft.json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="225745d8-3693-ad6f-ebd5-8845d81f8e0f" />
-    <ReferenceAssembly PathName="c:\users\daniel\documents\visual studio 2015\projects\test_me-windows_phone_ui\test_me-windows_phone_ui\serverapi\bin\x86\debug\serverapi.dll" HashGuid="8be5f44b-4a1f-1336-a77e-7bea5f5961c5" />
+    <ReferenceAssembly PathName="c:\users\cvetelina\documents\visual studio 2015\projects\test_me-windows_phone_ui\test_me-windows_phone_ui\packages\newtonsoft.json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="225745d8-3693-ad6f-ebd5-8845d81f8e0f" />
+    <ReferenceAssembly PathName="c:\users\cvetelina\documents\visual studio 2015\projects\test_me-windows_phone_ui\test_me-windows_phone_ui\serverapi\bin\x86\debug\serverapi.dll" HashGuid="8be5f44b-4a1f-1336-a77e-7bea5f5961c5" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
