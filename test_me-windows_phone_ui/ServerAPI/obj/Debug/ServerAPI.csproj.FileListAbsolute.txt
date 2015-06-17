@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\ServerAPI.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\ServerAPI.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\ServerAPI.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\ServerAPI.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\Bin\Debug\Newtonsoft.Json.Silverlight.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.csprojResolveAssemblyReference.cache
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\ServerAPI\obj\Debug\ServerAPI.pdb

@@ -1,3 +1,56 @@
+<<<<<<< HEAD
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ApplicationIcon.png
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Background.png
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me-windows_phone_ui.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me-windows_phone_ui.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\AppManifest.xaml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me_windows_phone_ui.xap
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\App.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\MainPage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\XapCacheFile.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\loginPage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\registerPage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\profilePage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ServerAPI.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ServerAPI.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ApplicationIcon.png
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Background.png
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me-windows_phone_ui.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me-windows_phone_ui.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\AppManifest.xaml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\test_me_windows_phone_ui.xap
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ServerAPI.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\ServerAPI.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Newtonsoft.Json.Silverlight.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.csprojResolveAssemblyReference.cache
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\App.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\MainPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\loginPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\profilePage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\registerPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.g.resources
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\test_me-windows_phone_ui.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\XapCacheFile.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\testPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\browseTestsPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\myResultsPage.g.i.cs
+D:\FlashDrive\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\pages\testPreviewPage.g.i.cs
+=======
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\bin\Debug\App.xbf
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\bin\Debug\MainPage.xbf
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\bin\Debug\test_me-windows_phone_ui.xr.xml
@@ -34,3 +87,4 @@ C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\t
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\test_me-windows_phone_ui\test_me-windows_phone_ui\test_me-windows_phone_ui\obj\Debug\ProjectArchitectures.txt
+>>>>>>> origin/master
